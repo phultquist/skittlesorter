@@ -1,3 +1,5 @@
+//Patrick Hultquist, Ajay Jayaraman, Max Knutson
+
 #include <Wire.h> //communication library
 int servoPin = 9;
 int ms = 180;
