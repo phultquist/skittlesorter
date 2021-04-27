@@ -6,3 +6,5 @@ Using 2 color sensors, 2-3 arduinos (depending on if you want a display), a coup
 Circuit model coming soon.
 
 Made by Max Knutson, Ajay Jayaraman, and Patrick Hultquist
+
+## [View the manual](https://github.com/phultquist/skittlesorter/blob/master/Skittle%20Sorter%20Technical%20Manual_compressed.pdf)
